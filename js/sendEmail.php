@@ -12,7 +12,7 @@ $mail = new PHPMailer\PHPMailer\PHPMailer();
     $mail->Port = 465; // or 587
     $mail->IsHTML(true);
     $mail->Username = "okekeemeka20@gmail.com";
-    $mail->Password = "Savanah_1111";
+    $mail->Password = "";
     $mail->SetFrom("okekeemeka20@gmail.com");
     $mail->Subject = "Test";
     $mail->Body = "hello";

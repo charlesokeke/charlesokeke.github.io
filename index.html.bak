@@ -263,7 +263,7 @@
 					<hr />
 					<p style='text-align:left; line-height:1.6;'>
 						App is currently being built with React, Node, Javascript, Bootstrap and Google's API.
-						backend for API request is still construction.
+						The backend for API request is under construction, however, the frontend is fully functional.
 					</p>
 			</div>" style="cursor:pointer;" data-html="true" data-placement="right">
               <div class="work-img">
